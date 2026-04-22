@@ -1,0 +1,5 @@
+Compilar:
+gcc main.c mergesort.c heapsort.c quicksort.c utils.c -o tp1
+
+Executar:
+./tp1
