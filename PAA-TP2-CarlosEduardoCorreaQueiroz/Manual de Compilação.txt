@@ -1,0 +1,22 @@
+Manual de Compilação e Execução
+Instalar dependências
+Ubuntu/Linux:
+sudo apt update
+sudo apt install python3 python3-pip
+pip install matplotlib
+
+Executar o programa
+python3 main.py
+
+Estrutura dos arquivos
+PAA-TP2/
+│
+├── avl.py
+├── redblack.py
+├── experimentos.py
+├── graficos.py
+├── main.py
+└── relatorio.pdf
+
+
+
